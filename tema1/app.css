@@ -33,8 +33,13 @@ button:hover {
     text-decoration: underline;
 }
 table {
-    border:3px solid #2E1263;
+    border:1px solid #2E1263;
 }
 td {
-   border:  3px solid #2E1263;
+    padding: 2px;
+   border:  1px solid #2E1263;
+}
+span {
+    font-weight: bold;
+
 }
